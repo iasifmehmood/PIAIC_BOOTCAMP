@@ -14,3 +14,13 @@ console.log("Guests after sara left: ", guests);
 for (const [key, value] of Object.entries(guests)) {
   console.log(`Your are invited Mr. ${value.name}`);
 }
+
+const obj = { id: 0, name: "asif" };
+
+guests.unshift(Object.assign(obj));
+
+console.log(guests);
+
+for (const [key, value] of Object.entries(guests)) {
+  console.log(`Your are invited Mr. ${value.name}`);
+}
