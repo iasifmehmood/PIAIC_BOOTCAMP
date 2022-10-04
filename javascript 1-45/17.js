@@ -41,3 +41,27 @@ guests.splice(2, 0, Object.assign(obj3)); //adding element mid of array
 console.log("Added at the middle\n", guests);
 
 displayfunc();
+
+console.log("\nI can invite only two guests");
+
+/*for (i = guests.length; i >= 2; i--) {
+  if (i != 2) guests.pop();
+  //remove last element of array
+  else console.log("\nRemoving guest from end ", guests);
+  displayfunc();
+} */
+
+console.log("\nI can invite only two guests");
+console.log("\nremoved guest from end is ", guests.pop());
+displayfunc();
+console.log("\nremoved guest from end is ", guests.pop());
+displayfunc();
+console.log("\nremoved guest from end is ", guests.pop());
+displayfunc();
+console.log("\nremoved guest from end is ", guests.pop());
+console.log("\nThe two invited guests are ");
+displayfunc();
+console.log("\nremoved 2nd last guest from end is ", guests.pop());
+console.log("\nremoved 2nd last guest from end is ", guests.pop());
+
+console.log("The array after popping all the elements is empty array ", guests);
