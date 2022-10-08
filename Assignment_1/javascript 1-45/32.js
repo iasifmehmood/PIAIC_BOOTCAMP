@@ -25,4 +25,3 @@ const userNotFound = newUsersLower.filter(
 console.log("Sorry " + UserFound + ", that name is taken"); // asif and shoaib
 
 console.log("Great, " + userNotFound + " is still available"); //opposite array
-
