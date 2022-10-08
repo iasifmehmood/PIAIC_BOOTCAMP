@@ -12,7 +12,7 @@ const make_album = function (an, at, t = 0) {
   let album_tracks = t;
   if (t == 0) return console.log(`Artist Name: ${an} Album title: ${at} `);
   else
-    console.log(
+    return console.log(
       `Artist Name: ${an} Album title: ${at} Tracks: ${album_tracks}`
     );
 };
