@@ -11,4 +11,4 @@ function make_great(magicianNames) {
   console.log(magicianNames);
 }
 
-console.log(magician_names); //modified
+console.log(magician_names); // original array modified
