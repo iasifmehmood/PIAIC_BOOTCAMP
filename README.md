@@ -1,5 +1,6 @@
 # piaic_asif
 For PIAIC
 
-Assignment No 1: Question 1-43 are solved by me and i will solve other questions by sundy 9 of oct 2022
-I'll add video presentation on sat  
+Assignment No 1: All questions are solved 
+
+Remaining: Slides (doing research on metaverse) and Webpage which will be submitted soon inshaAllah
