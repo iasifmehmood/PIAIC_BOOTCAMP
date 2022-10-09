@@ -1,0 +1,140 @@
+.top-strip{
+    background-color:#31ea20;
+    padding: 3px;
+    display: block;
+    margin-bottom: 0;
+    width: 100%;
+    
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.top-links{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.top-links li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.top-links li a{
+    color: white;
+}
+.top-links li a:hover{
+    color: #ececec;
+}
+.top-Sign-links{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.top-Sign-links li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.top-Sign-links li a{
+    color: white;
+}
+.top-Sign-links li a:hover{
+    background-color: white;
+    color: #31ea20;
+    padding: 4px;
+}
+.text-align{
+    text-align: right;
+}
+.fa{
+    font-size: 14px;
+    font-style: normal;
+}
+.header .main-manu-wrapper .navbar-default {
+    background-color: white;
+    border-color: #ffffff;
+    border-radius: 0;
+    border: 0;
+    margin: 0;
+}
+.main-manu-wrapper .navbar-header .navbar-brand .webtech-logo{
+    width: 50px;
+    height: 100%;
+    float: left;
+    display: inline-block;
+}
+.main-manu-wrapper .navbar-header .navbar-brand .title-1{
+    height: auto;
+    color: black;
+    font-size: 16px;
+    font-family:serif;
+    margin-top: 0;
+}
+main-manu-wrapper .navbar-header .navbar-brand:hover{
+    color: #31ea20;
+}
+.collapse .navbar-nav{
+    float: right;
+}
+.main-manu-wrapper .navbar-default .navbar-nav > li > a {
+    color: #000000;
+    font-family:serif;
+    font-weight:600;
+}
+.main-manu-wrapper .navbar-default .navbar-nav > li > a:hover{
+    color:white ;
+    background-color:#31ea20;
+}
+.Intro-div-wrapper{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.intro-para .about{
+    text-decoration: none;
+    color: #1919ff;
+}
+.intro-para p{
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.intro-para .btn{
+    background-color:#31ea20;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.intro-para .btn:hover{
+    background-color: #31ea20;
+    color: white;
+    opacity: 0.5;
+}
+.intro-image{
+    float: right;
+}
+.float-clear{
+    content: '';
+    clear: both;
+}
+.service-div-wrapper{
+    width: 100%;
+   position: relative;
+}
+.back-image{
+    width: 100%;
+    padding-bottom: 50px;
+    
+}
+.service-position-wrapper{
+    position: absolute;
+    background-color:#31ea20;
+    height: 100%;
+    width: 100%;
+    opacity: 0.677;
+    bottom: 0;
+    top: 0;
+}
