@@ -1,6 +1,10 @@
 # piaic_asif
 For PIAIC
 
-Assignment No 1: All questions are solved 
+Assignment No 1: 
+1) solved 45 javascript questions
+2) Create webpage
+3) Created and shared metaverse slides (not video)
 
-Remaining: Slides (doing research on metaverse) and Webpage which will be submitted soon inshaAllah
+Hence, Assignment-1 is completed
+
